@@ -1,0 +1,479 @@
+Docu: AGGer-Teaching
+
+File: 001.03_Index.txt
+
+Date of Version: 2020-02-23.01
+
+
+
+===============
+ --> INDEX <--
+===============
+
+
+
+General Stuff
+==============
+
+About this Files
+-----------------
+001.01 About the Docu
+001.02 State of the Docu (News)
+001.03 Why on GitHub
+001.04 Index of Chapters
+
+
+Basics about the Ghosts
+------------------------
+011.01 About Anonymous
+011.02 About Hacker
+011.11 What are Script Kiddies
+011.12 Colors of Hats
+011.13 Hacker vs. Cracker
+011.14 Ops & Secs
+011.21 About the Ghosts
+011.22 About the Ghosts from Germany (AGGer)
+011.23 About the Ghost's History
+011.31 Is this all illegal
+
+Some famous Ops of the Ghosts
+------------------------------
+011.35 Ops of the past
+011.36 OpIcarus
+011.37 OpIsrael
+011.39 Some other famous Ops
+
+Basics about LEAs
+------------------
+011.41 Who or what is LEA
+011.42 Different Countries - Different Laws
+011.43 Cooperations over Boards
+011.44 Big Traces in Big Data
+011.51 FBI, CIA & NSA
+011.52 The former KGB
+011.53 Chinas Agencies
+011.54 Israel's Mossad
+011.55 LKA, BKA & BND
+
+About You
+----------
+012.01 How you are
+012.02 Image, Fake, Camouflage
+012.03 Fake Names, Nick Names, User Names
+
+About You & Others
+-------------------
+013.01 Be patient
+013.02 Help others
+013.03 Follower
+013.04 Giving back
+
+All wrong what Others said
+---------------------------
+014.01 Computers, Math & Teachers
+014.02 The Media
+014.03 The Politics
+
+Way to go
+----------
+015.01 Find your way
+015.02 Contacts - If no one can help
+
+About Enemies
+--------------
+016.01 Who and who not
+016.02 Be careful who you fight against
+
+
+Social Engineering
+-------------------
+021.01 Social Engineering (SE)
+021.02 Difference between SE and laying
+
+Strategy of open Cards
+-----------------------
+022.01 Why playing with open cards
+
+Work with understatement
+-------------------------
+023.01 Why work with understatement
+
+Not knowing to much
+--------------------
+024.01 IDK protects yourself
+024.02 IDK protects others
+024.03 Nobody knows all
+024.04 A headless Sec
+024.05 Example of a decentralized Structure
+
+
+
+Basic Knowledge
+================
+
+Hardware to use
+----------------
+031.01 Live Time of Hardware
+031.02 Computer vs. Phone
+031.03 Computer
+031.04 Phone
+031.05 ISP Router vs. Own Router
+031.06 Server
+031.07 Webserver
+
+
+Web
+----
+041.01 What is Clearnet
+041.02 What is Deepnet
+041.03 What is Darknet
+041.04 What is TOR
+041.05 What is I2P
+041.06 Other kinds of Nets
+
+Hide Origin in Traffic
+-----------------------
+042.01 Basics about Network Protocols
+042.02 Traffic via Proxies
+042.03 Traffic via TOR
+042.04 Traffic via I2P
+042.05 Use of free VPN
+042.06 Use of payed VPN
+
+Find the right VPN Provider
+----------------------------
+043.01 About Eyes
+043.02 About Logs
+043.03 About audited VPNs
+043.04 About the traces of money
+
+
+Messenger & Communities
+------------------------
+051.01 Agencies & Services
+
+051.11 WhatsApp general
+051.12 WhatsApp Groups
+051.13 WhatsApp Backups
+
+051.21 Facebook general
+051.22 Facebook Fake Users
+051.23 Facebook Pages
+051.24 Facebook Groups
+
+051.31 Twitter
+
+051.41 Telegram general
+051.42 Telegram Channels
+051.43 Telegram Groups
+051.44 Telegram Bots
+051.45 Telegram Hint
+
+051.51 GitHub general
+051.52 GitHub Repos
+051.53 GitHub Issues & PR
+051.54 GitHub starred Repos
+051.55 GitHub Organisations
+
+051.91 Wickr Me
+051.92 Signal
+051.93 Threema
+051.94 Other Messenger
+
+
+Cryto Currencies
+-----------------
+061.01 When do I need it
+061.02 Basic overview of CC
+061.03 About BTC
+
+
+
+Setting up your Environment
+============================
+
+Setting up a Computer
+----------------------
+071.01 About Windows
+071.02 About Kali
+071.03 About Traces
+071.04 About Encrytion
+071.05 Some basic Progs for Comps
+
+
+Setting up a Phone
+-------------------
+081.01 Apple vs. Android
+081.02 Some Hints to Hardware
+081.03 About the right ROM
+081.04 Install LineageOS
+081.05 Moving Data
+081.06 Basic Setup LOS
+081.07 Some basic Apps for Android
+
+
+
+Hardware extended
+==================
+
+Own Router
+-----------
+101.01 Different Options
+101.02 Alternative Firmwares
+101.03 Raspberry & Co.
+101.04 Computer as Router
+101.05 VMs as Router
+
+Own Server
+-----------
+102.01 Some Notes to a own Server
+
+Own Webserver
+--------------
+103.01 Different kinds of Webserver
+103.02 First think about your Progs
+103.03 Right OS
+103.04 Possibilities with own Webserver
+103.05 Bullet Proof Providers, Darknet & Cryto Currencies
+
+
+
+Technics of Hacking
+====================
+
+Some basic terms
+-----------------
+201.01 Leaks
+201.02 Doxes
+201.03 Dosing
+
+Some terms & definitions of infection
+--------------------------------------
+202.01 Vulnerabilities
+202.02 0-day Exploits
+
+202.11 Phishing
+
+202.21 Virus
+202.22 Malware
+202.23 Spyware
+202.24 Adware
+202.25 Trojan
+202.26 Worm
+202.27 Miner
+202.28 Rasomware
+202.29 Rootkit
+202.30 Remote Access Trojan (RAT)
+202.31 Bootnet
+
+202.41 Drive-by-Download
+202.42 Manual Injection
+
+
+Botnets
+--------
+205.01 Botnets general
+205.02 C&C Server and Zombies
+205.03 Botnets History
+205.04 Infections with Botnet Software
+205.05 IoT Botnets
+205.06 Peer-to-Peer Botnets
+205.07 Botnets & Darknet
+205.08 Possibilities of a Botnet
+205.07 Open Source & Botnets
+
+
+DoS/DDoS
+---------
+211.01 DoS vs. DDoS (Term Definition)
+211.02 Different Technics
+211.03 Not over Gateway
+211.04 Not over TOR
+211.05 Against TOR Server, anyway
+211.06 Fail2ban
+211.07 Professional Firewalls
+211.08 Cloudflare
+211.09 DoS vs. DDoS vs. Botnet DDoS
+
+
+Scanning & Analiyzing Networks
+-------------------------------
+221.01 About Addresses & Ports
+221.02 Scanning for other Devices (Addresses)
+221.03 Scanning Ports
+
+
+Vulnerability Analiyze of other Devices
+----------------------------------------
+231.01 Analiyze other Devices
+
+
+Defacing
+---------
+241.01 What is Defacing
+241.02 HTML & PHP
+241.03 Databases
+241.04 Web Content Management Systems (Web CMS)
+241.11 Wordpress
+241.12 Joomla
+241.13 Typo3
+241.18 Other Web CMSes
+241.19 Wikis
+
+
+Hacking WiFis
+--------------
+251.01 Why hack a WiFi
+251.02 What's, why & how Wardriving
+251.03 The difference of the WiFi Standards
+251.04 Analiyze a WiFi Network
+251.05 Hack a WiFi Network
+
+
+More...
+
+
+Finding new Stuff
+------------------
+291.01 Apps - GitHub, the root of all evil
+
+
+
+Coding Hacking Soft
+====================
+
+About Languages
+----------------
+301.01 Right Language
+301.02 About Scripts
+301.03 About Python
+301.04 About Java
+301.05 About C#
+301.06 About C++
+301.07 About C
+301.08 About Assembler
+
+About Coding Standards
+-----------------------
+302.01 Why Open Source
+302.02 Why Git
+302.03 Why Style Guides
+
+About own Project
+------------------
+311.01 Participate or own Project
+311.02 Code Snippets - GitHub, the root of all evil, 2
+
+311.21 Be consistent in your Project
+311.22 Maintain your Project
+311.23 Why merge PRs
+
+311.81 When to archive your Project
+
+311.91 When to fork a Project
+
+
+More...
+
+
+
+Other ways to participate
+==========================
+
+Pictures
+---------
+401.01 About Pictures
+
+Videos
+-------
+411.01 About Videos
+
+Music
+------
+421.01 About Music
+
+Homepages
+----------
+431.01 For representing
+431.02 For Defaces
+
+Docs
+-----
+441.01 Why Docs in English
+441.02 Why using GitHub for Docs
+
+Ads
+----
+451.01 Making Ads for the Ghosts
+
+Something else
+---------------
+461.01 Helping how ever
+
+
+
+Hacker IRL
+===========
+
+House Search
+-------------
+601.01 Be prepared
+
+IRL Contacts
+-------------
+602.01 Be careful
+602.02 FEDs
+602.03 Informer
+
+If you have to hide traces
+---------------------------
+603.01 Fingerprints
+603.02 DNS
+603.03 Serial Numbers & Similar
+603.04 Traces of Money
+603.05 Surveillance Cameras
+
+
+
+The End
+========
+
+Giving back to the Community
+-----------------------------
+701.01 Why Helping
+701.02 Why Teaching
+701.03 Why making Docs
+701.11 Coding for the Crowd
+701.12 Participate into Coding
+
+
+URL Lists
+----------
+801.01 General URLs
+801.02 More URLs
+801.03 URLs for Ops & Secs
+
+
+Giving this Docu to Others
+---------------------------
+901.01 How to give this Docu to Others
+
+
+Finally about this Docu
+------------------------
+951.11 Further Work
+
+961.21 How to participate
+961.22 What about "None Text Files"
+
+971.31 The Authors so far
+
+981.41 Something wrong, or missing
+
+991.51 Contact to AGGer
+
+991.99 Empty Draft
+
+
+
+Latest Version at: https://github.com/AnonGhost-Germany/AGGer-Teachingcom/AnonGhost-Germany/AGGer-Teaching
